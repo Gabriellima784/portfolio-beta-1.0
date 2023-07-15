@@ -2,7 +2,9 @@ import React from "react";
 
 import Header from "./Header";
 import Top from "./Top";
-import Carousel from "./Carousel";
+import Mid from "./Mid";
+import SecondMid from "./SecondMid";
+import Footer from "./Footer";
 
 
 export default function Conteudo () {
@@ -10,7 +12,9 @@ export default function Conteudo () {
         <main className="Conteudo">
             <Header/>
             <Top/>
-            <Carousel/>
+            <Mid/>
+            <SecondMid/>
+            <Footer/>
         </main>
     )
 }

@@ -1,11 +1,10 @@
 import React from "react";
 
 
-
   export default function Carousel () {
     return (
         <>
-         <div id="html"></div>
+         <h1>Teste</h1>
         </>
     )
   }

@@ -1,5 +1,6 @@
 import React from "react";
 import "./styles.css"
+import Carousel from "../Carousel";
 
 const Top = () => {
     return ( 
@@ -19,7 +20,7 @@ const Top = () => {
             ao acessar uma página Web ou uma aplicação em dispositivo móvel, tornando a usabilidade do mesmo inesquecivel
             e marcante para todos que a utilizarem.</p>
             <h1 id="textolinguagens">Principais linguagens</h1>
-
+            <Carousel/>
         </div>
         </>
     )

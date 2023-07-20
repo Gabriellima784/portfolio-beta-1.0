@@ -89,7 +89,7 @@
 
 /*Mobile*/
 
-@media screen and (max-width:1115px) {
+@media screen and (max-width:1636px) {
     #container2 {
         grid-template-columns: repeat(2, 1fr); 
     }
